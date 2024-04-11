@@ -1,0 +1,43 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  height: 60px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  justify-content: space-between;
+}
+.header .btn-dark {
+  height: 40px;
+}
+
+.text-center {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.container {
+  padding: 30px;
+}
+
+.elemento-footer {
+  text-decoration: none;
+  color: azure;
+}
+
+.carousel-caption {
+  background-color: rgba(93, 93, 93, 0.7);
+}
+
+.carousel-inner {
+  height: 40%;
+  width: 100%;
+}/*# sourceMappingURL=index.css.map */
